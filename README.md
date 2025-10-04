@@ -1,5 +1,5 @@
 ## Project Overview
-This project implements a comprehensive, AI-enhanced Intrusion Detection System (IDS) analysis pipeline for cloud computing environments. It is a single-file, research-grade Python script that simulates, preprocesses, models, evaluates, and reports on multiple IDS datasets using both traditional machine learning and deep learning approaches.
+This project is a comprehensive study on, AI-enhanced Intrusion Detection System (IDS) analysis pipeline for cloud computing environments. It is a single-file, research-grade Python script that simulates, preprocesses, models, evaluates, and reports on multiple IDS datasets using both traditional machine learning and deep learning approaches.
 
 ## Key Components & Data Flow
 - **IDSDataPreprocessor**: Simulates and preprocesses datasets (CICIDS2017, CICDDoS2019, UNSW-NB15). Handles feature engineering, scaling, label encoding, feature selection, and class balancing (SMOTE).
